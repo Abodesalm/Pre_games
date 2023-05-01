@@ -2,7 +2,7 @@
     font-family:"ureg";
     src: url(u-reg.ttf);}
 body{
-    background-image: url("bg.png");
+    background-image: url("Bg.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
