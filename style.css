@@ -25,7 +25,7 @@ body{
     background-color: #03312e;
     border-top: #3e8914 2px solid;
     position: relative;}
-.bfoo {height: 5%;}
+.bfoo {height: 40px}
 .para{
     color: #ddffd9;
     position: absolute;
@@ -84,4 +84,4 @@ table td {
     background-color: #3e8914;
     border-radius: 30% 0% 0% 30%;
     bottom: 0.5%}
-.hr {height: 10%}
+.hr {height: 50px}
