@@ -1,0 +1,88 @@
+@font-face {
+    font-family:"ureg";
+    src: url(u-reg.ttf);}
+body{
+    background-image: url("bg.webp");
+    webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    Margin: 0;
+    Padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: ureg, Arial, Sans-Serif;}
+.navbar {
+    width: 100%;
+    height: 65px;
+    background-color: #03312e;
+    border-bottom: #3e8914 3px solid;
+    position: sticky;
+    top: -20px;
+    z-index: 100000;}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: #03312e;
+    border-top: #3e8914 2px solid;
+    position: relative;}
+.bfoo {height: 30px;}
+.para{
+    color: #ddffd9;
+    position: absolute;
+    top: 5px;
+    right: 10%;}
+i {position: absolute;top: 50px}
+.fa-youtube {right: 30%}
+.fa-facebook {right: 50%}
+.fa-instagram {right: 70%}
+.gg1 {right: 10%}
+.gg2 {right: 17%}
+.gg3 {right: 24%}
+.gg1,.gg2,.gg3 {top: 40px}
+.logotext {
+    position: absolute;
+    bottom: -30px;
+    left: 20px;
+    font-size: 32px;
+    color: #3e8914}
+.logotext::first-letter {
+    font-size: 40px;
+    font-weight: 700}
+.heading {
+    padding-left: 5%;
+    padding-top: 1.5%;
+    position: relative;
+    font-family:"Times New Roman", serif}
+.heading::first-letter {font-size: 35px}
+table {
+    background-color: #ddffd3;
+    width: 90%;
+    border-spacing: 0px;
+    margin-right: auto;
+    margin-left: auto}
+table td {
+    border: #eee solid 2px;
+    padding: 3.5%}
+.cpu {
+    width: 15%;
+    background-color: #96e072;
+    font-weight: 600}
+.cpuinf {width: 85%/2;font-weight: 400}
+.bbb {font-weight: 700}
+.headd {
+    width: 60%;
+    height: 45px;
+    background-color: #ddffd3;
+    margin-bottom: 2%;
+    margin-left: 2.8%}
+.heading::before {
+    content: "";
+    position: absolute;
+    left: -1.5%;
+    width: 10px;
+    height: 45px;
+    background-color: #3e8914;
+    border-radius: 30% 0% 0% 30%;
+    bottom: 0.5%}
+.hr {height: 50px}
