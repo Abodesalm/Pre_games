@@ -68,7 +68,7 @@ table td {
     width: 15%;
     background-color: #96e072;
     font-weight: 600}
-.cpuinf {width: 85%/2;font-weight: 400}
+.cpuinf {width: 85%/2;font-weight: normal;}
 .bbb {font-weight: 700}
 .headd {
     width: 60%;
